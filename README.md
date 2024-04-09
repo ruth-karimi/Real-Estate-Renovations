@@ -54,9 +54,9 @@ They have tasked the Hepta Group to conduct multiple linear regression modelling
 
 
 ## Links to project resources
-* Presentation - 
-* Code - 
-* Data -
+* Presentation - https://github.com/ruth-karimi/Real-Estate-Renovations/blob/main/Real%20Estate%20Renovation%20Presentation.pdf
+* Code - https://github.com/ruth-karimi/Real-Estate-Renovations/blob/main/Phase_2_Project.ipynb
+* Data - https://github.com/ruth-karimi/Real-Estate-Renovations/blob/main/kc_house_data.csv
 * Tableau - https://public.tableau.com/views/KingCountySalesDashboard-Group8/KingCountySalesdashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 * Column Description - https://github.com/learn-co-curriculum/dsc-phase-2-project-v2-3/blob/main/data/column_names.md
 
