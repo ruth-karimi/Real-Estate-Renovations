@@ -1,4 +1,4 @@
-# Phase 1 Microsoft Movie Studio Project
+# Phase 2 Real Estate Renovation Project
 Author: Ruth Nyakio
 
 ## Overview
